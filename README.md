@@ -30,6 +30,8 @@ electricBlue #00C6FF
 2. Prepare your color list in a text file (e.g., `colors.txt`) following the format described above.
 
 3. cd to directory and run the generator script:
+
 `swift build`
+
 `swift Sources/main.swift theme_colors_examples.txt output xcasssets`
 
