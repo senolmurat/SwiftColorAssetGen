@@ -1,0 +1,4 @@
+deepCharcoal #232526
+slateGray #414345
+midnightBlue #141E30
+electricBlue #00C6FF
